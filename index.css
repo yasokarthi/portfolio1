@@ -1,0 +1,16 @@
+.nav{
+    display:flex;
+    margin-left: 800px;
+    justify-content: space-evenly;
+}
+
+.nav a{
+    text-decoration: none;
+}
+.{
+    text-align:center;
+    height:80vh;
+    padding-top:10%;
+    font-size:xx-large;
+    
+}
